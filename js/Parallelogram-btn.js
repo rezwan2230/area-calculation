@@ -9,5 +9,5 @@ document.getElementById('Parallelogram-btn').addEventListener('click',function()
     const area = ParallelogramBase * ParallelogramHeight
     setTextValueById('Parallelogram-area',area)
 
-    setEntryCalculation('Parallelogram', area)
+    setEntryCalculation('Parallelo.', area)
 })
